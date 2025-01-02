@@ -1,0 +1,43 @@
+---
+title: "AI_Demo"
+author: "Ihsan"
+embed-resources: TRUE
+---
+## Demo
+
+# The demo below is intended for json files
+
+```{python}
+API_KEY = 'AIzaSyAzuPEjOoJSsrj5TFzE3Ep59INPbcJ0yPk'
+
+import json
+r = open('AI_Solutions_Architect_20241030_180430.json', 'r')
+data = json.load(r)
+```
+
+# Pip install google.generativeai
+
+```{python}
+import requests
+import google.generativeai as genai
+import json
+import glob
+import pandas as pd
+from google.cloud import aiplatform
+from vertexai import generative_models
+from vertexai.generative_models import GenerativeModel
+
+def clean_ai(json_file,us_input):
+    genai.configure(api_key=API_KEY)
+    
+    model = genai.GenerativeModel("gemini-1.5-flash-latest")
+    response = model.generate_content(f"""{us_input}{json_file}""")
+    
+    return response.text
+
+```
+
+```{python}
+us_input = 'Summarize the contents of this file for me'
+clean_ai(data,us_input)
+```

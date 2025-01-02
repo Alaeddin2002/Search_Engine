@@ -1,0 +1,970 @@
+{
+    "search_metadata": {
+        "id": "6722752e5235f67e9e0397ae",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f7e365af97fedab2/6722752e5235f67e9e0397ae.json",
+        "created_at": "2024-10-30 18:04:30 UTC",
+        "processed_at": "2024-10-30 18:04:30 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=AI+Solutions+Architect&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/f7e365af97fedab2/6722752e5235f67e9e0397ae.html",
+        "total_time_taken": 6.07
+    },
+    "search_parameters": {
+        "q": "AI Solutions Architect",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us"
+    },
+    "filters": [
+        {
+            "name": "Salary",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_K7wwdmG1sMsUI7HjfOCq6eL5K5WwaLoD7xyPUbN--AEq7MMfESKfnHdIxq1opIFITdZuiSgr7kYfPfBOjh3KajaDzVnFiLg-hdLWfCAY4LubhmteI",
+                "q": "AI Solutions Architect salary"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+salary&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_K7wwdmG1sMsUI7HjfOCq6eL5K5WwaLoD7xyPUbN--AEq7MMfESKfnHdIxq1opIFITdZuiSgr7kYfPfBOjh3KajaDzVnFiLg-hdLWfCAY4LubhmteI&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIEhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+salary&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dkf12WqtT7Pq4F8Qt-rlFjrBlM23ZTL5jNjSzI5mEylH_6Y-X0p_leo0yYQjHhIphH2tgBgoUTihrzy4ArPUwPcZzofh-SpiR5FLODuF_wQm38Beft7m3Hp1V2CNs--fw8jQwzYO__bE8_e-p7LMKyk5C0inwD2_VIV-OeIB9xfU7cUbiZph945pXPh_tPmIDMAffGTCxayuHLIwlMSW4yC7rzBvB9nYgYCzG6b0X8YZoiUCPjRZnx6AWzUXwrTrgJfZkoy0j48J-grejvTG3ACo66ISldd1s33HdWpvFmshFss4wCCUi3JQWtRpZOyaGCRBJ8Q",
+                        "q": "AI Solutions Architect since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dkf12WqtT7Pq4F8Qt-rlFjrBlM23ZTL5jNjSzI5mEylH_6Y-X0p_leo0yYQjHhIphH2tgBgoUTihrzy4ArPUwPcZzofh-SpiR5FLODuF_wQm38Beft7m3Hp1V2CNs--fw8jQwzYO__bE8_e-p7LMKyk5C0inwD2_VIV-OeIB9xfU7cUbiZph945pXPh_tPmIDMAffGTCxayuHLIwlMSW4yC7rzBvB9nYgYCzG6b0X8YZoiUCPjRZnx6AWzUXwrTrgJfZkoy0j48J-grejvTG3ACo66ISldd1s33HdWpvFmshFss4wCCUi3JQWtRpZOyaGCRBJ8Q&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQkbEKegQIDBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+since+yesterday&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8sT57kXBWV6YAUeAYM11kLW4GIFtLAzRWsVk-edLhqWJdw2S47R4yLRM8VugwCvLRET-c_Q4molbsuyHC6C2usK-XskMYv9d9UkvWSsn8WbmKZBCr50zYHcpUvjpRbw9zUTIn09pho-Z0zROB-TwynTJ_mg4BtR5o45x6lHr0Jg5i28xDl9CPUB2r5Sx0Po35RKvAEjxsRkdvU_Mxg1A6OwG9Hefct4wMEn8FyWG2nYLyXn82hQfoDmR-vpy2ePeGuIWtJJ7Tef_SedJOCIv7c6FD68HvBZOxcx4zLgqPMU9RL6PJXd7QtP_5HTLZbUYsC2nXQ",
+                        "q": "AI Solutions Architect in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8sT57kXBWV6YAUeAYM11kLW4GIFtLAzRWsVk-edLhqWJdw2S47R4yLRM8VugwCvLRET-c_Q4molbsuyHC6C2usK-XskMYv9d9UkvWSsn8WbmKZBCr50zYHcpUvjpRbw9zUTIn09pho-Z0zROB-TwynTJ_mg4BtR5o45x6lHr0Jg5i28xDl9CPUB2r5Sx0Po35RKvAEjxsRkdvU_Mxg1A6OwG9Hefct4wMEn8FyWG2nYLyXn82hQfoDmR-vpy2ePeGuIWtJJ7Tef_SedJOCIv7c6FD68HvBZOxcx4zLgqPMU9RL6PJXd7QtP_5HTLZbUYsC2nXQ&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQkbEKegQIDBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+in+the+last+3+days&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dkf12WqtT7Pq4F8Qt-rlFjrBlM23ZTL5jNjSzI5mEylH_6Y-X0p_leo0yYQjHhIphhspURrxyx6QGJffWpt4JvFXG12wRdbgULK-fNk4e3N6E-_lJzByoXvhveenCHwsEhmCWXN5UvAYQHZPsA2urf582lOZbZBr6hh2bc-NIFPUBj4pcCa3HjshqzueGJ_ion8O72aAJ4fMV09EeErFvyJppQvgmtZsCj2zXlJMutjDnjdcayNxdMMDgz6khSUB8I78IBwmp2PfA1Tzsn7I1wLcXv9ID74gRuFD6ZX8ear5mO_9DvAY4RyJKwjvgZdz2s0PUA7tz93kjEFWJU4DZ_DXAijc",
+                        "q": "AI Solutions Architect in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dkf12WqtT7Pq4F8Qt-rlFjrBlM23ZTL5jNjSzI5mEylH_6Y-X0p_leo0yYQjHhIphhspURrxyx6QGJffWpt4JvFXG12wRdbgULK-fNk4e3N6E-_lJzByoXvhveenCHwsEhmCWXN5UvAYQHZPsA2urf582lOZbZBr6hh2bc-NIFPUBj4pcCa3HjshqzueGJ_ion8O72aAJ4fMV09EeErFvyJppQvgmtZsCj2zXlJMutjDnjdcayNxdMMDgz6khSUB8I78IBwmp2PfA1Tzsn7I1wLcXv9ID74gRuFD6ZX8ear5mO_9DvAY4RyJKwjvgZdz2s0PUA7tz93kjEFWJU4DZ_DXAijc&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQkbEKegQIDBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+in+the+last+week&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dF40NIiUW2_T2qe0pS8WrAT_niUx9MFHeZMG-5NOfvlSpIa6zN2cWEDwQd2hMk93gyPJ6LiWhgoE07c6-Dr9YTQnevm7UnvfyidS1L1ewLv957jr5InXyUJ4-ILehjJeF6nb25Vl51tpe4xwB0v-rO2IVeSdO2P0eeR6ojfdIAsI0O6Udm0_xDYwys_iNNznXQPJGnePwKeAoh0KhpOF2987zw5JBOAkyN6w7vjBYsqF0SMhxdsNhyKPXCAqxSlXk4703VH5V0XrEBZjIZaJzYmFBH8sJuDZVT-3ybU-AzHAT4yY0s1YYygldXY2woTMm1B46mUU2i2NfS1hTfBejswgMURU",
+                        "q": "AI Solutions Architect in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dF40NIiUW2_T2qe0pS8WrAT_niUx9MFHeZMG-5NOfvlSpIa6zN2cWEDwQd2hMk93gyPJ6LiWhgoE07c6-Dr9YTQnevm7UnvfyidS1L1ewLv957jr5InXyUJ4-ILehjJeF6nb25Vl51tpe4xwB0v-rO2IVeSdO2P0eeR6ojfdIAsI0O6Udm0_xDYwys_iNNznXQPJGnePwKeAoh0KhpOF2987zw5JBOAkyN6w7vjBYsqF0SMhxdsNhyKPXCAqxSlXk4703VH5V0XrEBZjIZaJzYmFBH8sJuDZVT-3ybU-AzHAT4yY0s1YYygldXY2woTMm1B46mUU2i2NfS1hTfBejswgMURU&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQkbEKegQIDBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+in+the+last+month&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZS5LuRC0GYgW6j5JlaG0eyAxrpE8whR-SuVAlBBeNl9Ihb1Sf_NISGDdr4q2ewR_8AGn53jvW3W3OrSQvzDuAaOVbusAv2pjGOrj382OLfUDaQXPD3xLyO3EzJdXKJG_Xd_eB4Q",
+                "q": "AI Solutions Architect no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d3O0FzXBD91oqJHyV53PBZS5LuRC0GYgW6j5JlaG0eyAxrpE8whR-SuVAlBBeNl9Ihb1Sf_NISGDdr4q2ewR_8AGn53jvW3W3OrSQvzDuAaOVbusAv2pjGOrj382OLfUDaQXPD3xLyO3EzJdXKJG_Xd_eB4Q&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIEBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+no+degree&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dNJkbpgjqZNv4hs5fyca8-GK8WqACS_f-zz3AhyxJL6aY7Y_coiRnrOclPar9J5ijKe3r5TTr3j2SlP3nLLNZ73rEO2hlo4L7BzevIogqtP7yHzqzzfZRgFFBUrOnRzlKT6kPzRMouAdYpyLohrzUnYFXENE",
+                "q": "AI Solutions Architect remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNJkbpgjqZNv4hs5fyca8-GK8WqACS_f-zz3AhyxJL6aY7Y_coiRnrOclPar9J5ijKe3r5TTr3j2SlP3nLLNZ73rEO2hlo4L7BzevIogqtP7yHzqzzfZRgFFBUrOnRzlKT6kPzRMouAdYpyLohrzUnYFXENE&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIDhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+remote&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Certification",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoMYzvjDa3z8PgTOlHoOTDLXErq7hL79altq1FtZNS2MRxhAkD4nkLkI8K9cIjEZzqYMy5OWxOniLMYCLGDsYr6P_Bj6RiUTWZxTZz0Xd6LtOHB9mHVilzl5W9A5LoJIIf2kbSsQ31iBEEAK9ZxoulgFfrljo",
+                "q": "Ai solutions architect certification"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=Ai+solutions+architect+certification&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dD0J7DDuU5mDMbDdgoR0zoMYzvjDa3z8PgTOlHoOTDLXErq7hL79altq1FtZNS2MRxhAkD4nkLkI8K9cIjEZzqYMy5OWxOniLMYCLGDsYr6P_Bj6RiUTWZxTZz0Xd6LtOHB9mHVilzl5W9A5LoJIIf2kbSsQ31iBEEAK9ZxoulgFfrljo&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIDRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Ai+solutions+architect+certification&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Reddit",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_IQWe_cXQcjDm2AH1zk4fgHltgIHSDZDw-s3tiM1IlpiHh4PZVKfX77D6dAuitS88G59tC4WXQPvYDWQVMVnj7bWQev1nFBmfrv4NEwcT727b6tDok",
+                "q": "AI Solutions Architect reddit"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+Solutions+Architect+reddit&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_IQWe_cXQcjDm2AH1zk4fgHltgIHSDZDw-s3tiM1IlpiHh4PZVKfX77D6dAuitS88G59tC4WXQPvYDWQVMVnj7bWQev1nFBmfrv4NEwcT727b6tDok&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIKRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+Solutions+Architect+reddit&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Course",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_IADZVpx_f8Wk_0hnQRsqQGW_L92J0dhBAdKcEWW5DVWjfYwGgMPAhVocp-xXXBxbjZgxE7h0f8axuKLAjFbfNkv957Jtr2NMXTPfIZq6vz9nc10q2F3Mq_-_xVxuxhLHb1FFvn",
+                "q": "Ai solutions architect course"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=Ai+solutions+architect+course&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7drlQNXJ_q6WhUnfcnlFQAOVqKue5ozgvS4CYwx6WCT_IADZVpx_f8Wk_0hnQRsqQGW_L92J0dhBAdKcEWW5DVWjfYwGgMPAhVocp-xXXBxbjZgxE7h0f8axuKLAjFbfNkv957Jtr2NMXTPfIZq6vz9nc10q2F3Mq_-_xVxuxhLHb1FFvn&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIJxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=Ai+solutions+architect+course&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Roadmap",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lq1mau-DFY-xo24010cnOU95r1MLYqfg6vJWv8EGccwPR1sgjD9DB6WoaMBxgOQ1ZJfoIvEkjejG9D8KdqIOliE_xgAnGmafOQqBmJbWMeISnTJSZWuZrmEtJFPxIGDbnYsLDDFw047fJKrzQMS9XiouLsqw",
+                "q": "AI architect roadmap"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=AI+architect+roadmap&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lq1mau-DFY-xo24010cnOU95r1MLYqfg6vJWv8EGccwPR1sgjD9DB6WoaMBxgOQ1ZJfoIvEkjejG9D8KdqIOliE_xgAnGmafOQqBmJbWMeISnTJSZWuZrmEtJFPxIGDbnYsLDDFw047fJKrzQMS9XiouLsqw&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIJRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=AI+architect+roadmap&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        },
+        {
+            "name": "Caisa",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1qKCjgRQaSE-ej570O2QO9pcrycFUz1MfXLDxp5tGolCUgAPE-Tc_oMOa3hRg3c5tkn1PA5TdIRoQIE5xTeDX50ctTsaLj8X29vF1IMVYz0L6brbqKSlzBoPmK5GyXhYxYhOja9aFQhgppFwZhqpum64sbAFa6vJ8TQdOKhQvxwW01SIng",
+                "q": "certified ai solutions architect (caisa)"
+            },
+            "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=certified+ai+solutions+architect+(caisa)&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1qKCjgRQaSE-ej570O2QO9pcrycFUz1MfXLDxp5tGolCUgAPE-Tc_oMOa3hRg3c5tkn1PA5TdIRoQIE5xTeDX50ctTsaLj8X29vF1IMVYz0L6brbqKSlzBoPmK5GyXhYxYhOja9aFQhgppFwZhqpum64sbAFa6vJ8TQdOKhQvxwW01SIng&udm=8&sa=X&ved=2ahUKEwiVvszG2LaJAxWWAzQIHT84E1cQxKsJegQIJhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=certified+ai+solutions+architect+%28caisa%29&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "AI Solution Architect \u2013 GPU",
+            "company_name": "Advanced Micro Devices, Inc",
+            "location": "San Jose, CA",
+            "via": "AMD Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=hiipdJYMmWD6YdEyAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=hiipdJYMmWD6YdEyAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "WHAT YOU DO AT AMD CHANGES EVERYTHING\n\nWe care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences \u2013 the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world\u2019s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.\n\nAMD together we advance_\n\nTHE ROLE:\n\n\u201cAI Solution Architect \u2013GPU\u201d position is in the AMD AI group\n\nTHE PERSON:\n\nSuccess in this role will require deep knowledge of Data Center AI workloads such as LLM, Generative AI, Recommendation, Vision, etc. The candidate needs to have hands-on experiences with various AI models, end-to-end pipeline, industry framework / SDKs and solutions.\n\nKEY RESPONSIBILITIES:\n\u2022 Position technical proposals to top customers.\n\u2022 Provide significant contribution to customer PoC success.\n\u2022 Drive customer requirements for AI SW, solution roadmap planning.\n\u2022 Provide inputs to hardware silicon / board roadmap for AI cross cloud and edge\n\u2022 Analyze competitive solutions to identify strength and weakness for articulate value propositions.\n\nPREFERRED EXPERIENCE:\n\u2022 Strong expertise with GPU, CUDA, ROCm is a must\n\u2022 Hands-on experience with AI software is a must (e.g. TensorRT, vLLM, Megatron-LM, Pytorch, JAX)\n\u2022 Hands-on experiences of implementing and optimizing LLM, Generative AI, Recommendation is a plus\n\u2022 Experience with AI projects in hyperscale and enterprise is a plus\n\u2022 Excellent written and verbal communication skills, presentations skills, and the ability to work with multiple groups\n\nACADEMIC CREDENTIALS:\n\u2022 BS required. MS preferred\n\nLOCATION:\n\nSan Jose, CA\n\nAt AMD, your base pay is one part of your total rewards package. Your base pay will depend on where your skills, qualifications, experience, and location fit into the hiring range for the position. You may be eligible for incentives based upon your role such as either an annual bonus or sales incentive. Many AMD employees have the opportunity to own shares of AMD stock, as well as a discount when purchasing AMD stock if voluntarily participating in AMD\u2019s Employee Stock Purchase Plan. You\u2019ll also be eligible for competitive benefits described in more detail here.\n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants\u2019 needs under the respective laws throughout all stages of the recruitment and selection process.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Success in this role will require deep knowledge of Data Center AI workloads such as LLM, Generative AI, Recommendation, Vision, etc",
+                        "The candidate needs to have hands-on experiences with various AI models, end-to-end pipeline, industry framework / SDKs and solutions",
+                        "TensorRT, vLLM, Megatron-LM, Pytorch, JAX)",
+                        "Excellent written and verbal communication skills, presentations skills, and the ability to work with multiple groups",
+                        "BS required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Your base pay will depend on where your skills, qualifications, experience, and location fit into the hiring range for the position",
+                        "You may be eligible for incentives based upon your role such as either an annual bonus or sales incentive",
+                        "Many AMD employees have the opportunity to own shares of AMD stock, as well as a discount when purchasing AMD stock if voluntarily participating in AMD\u2019s Employee Stock Purchase Plan",
+                        "You\u2019ll also be eligible for competitive benefits described in more detail here"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Position technical proposals to top customers",
+                        "Provide significant contribution to customer PoC success",
+                        "Drive customer requirements for AI SW, solution roadmap planning",
+                        "Provide inputs to hardware silicon / board roadmap for AI cross cloud and edge",
+                        "Analyze competitive solutions to identify strength and weakness for articulate value propositions"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "AMD Careers",
+                    "link": "https://careers.amd.com/careers-home/jobs/55160?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=c3282a63b87dfbfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ai-solution-architect-%E2%80%93-gpu-at-amd-4059565603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/ai-solution-architect-gpu-san-jose-ca--e2222006-bc2e-486b-b884-12be55d0c0fa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/4jArav1DO49wUQ6cjBwZxjr3Gpt5vZGu9FWCZkga_7HKj8ZrC-5J9g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobServe",
+                    "link": "https://www.jobserve.com/us/en/extjob/AI-SOLUTION-ARCHITECT-GPU-in-San-Jose-California-USA-1EC5902FAA0E7023FE/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://us.bebee.com/job/5f984ccd0c62c8805409396e6816cb4a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/san-jose/california/info_technology/3653807437/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbiBBcmNoaXRlY3Qg4oCTIEdQVSIsImNvbXBhbnlfbmFtZSI6IkFkdmFuY2VkIE1pY3JvIERldmljZXMsIEluYyIsImFkZHJlc3NfY2l0eSI6IlNhbiBKb3NlLCBDQSIsImh0aWRvY2lkIjoiaGlpcGRKWU1tV0Q2WWRFeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "AI Solutions Architect",
+            "company_name": "Arrow Electronics",
+            "location": "Alpharetta, GA",
+            "via": "Get.It",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=vqZjfOJWflRrpRntAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=vqZjfOJWflRrpRntAAAAAA%3D%3D",
+            "extensions": [
+                "9 hours ago",
+                "123K\u2013216K a year",
+                "Full-time",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 hours ago",
+                "salary": "123K\u2013216K a year",
+                "schedule_type": "Full-time",
+                "health_insurance": true,
+                "paid_time_off": true,
+                "dental_coverage": true
+            },
+            "description": "Description\n\nArrow is seeking a Solution Architect to provide technical direction and business guidance to our channel partner community in North America. You will have responsibility for our AI Center of Excellence, which serves as a centralized hub of AI-related activities in our Arrow Solutions Lab. This role will unify people, processes, and technology to enhance AI adoption by sharing best practices, providing training and enablement, and driving innovation. The ideal candidate will be instrumental in the design, development, build, and promotion of AI solutions that tackle complex business challenges alongside our partners and their end customers.\n\nCompany Culture and Environment\n\nAt Arrow, we foster a culture of collaboration and innovation. We encourage our employees to take initiative and work independently while providing them with the support and resources necessary to succeed. Our work environment values creativity and new ideas, allowing team members to make impactful contributions.\n\nCareer Growth and Development Opportunities\n\nWe believe in the growth of our employees and provide various opportunities for professional development. Join us to enhance your skills, gain exposure to cutting-edge AI technologies, and advance your career within the organization.\n\nDetailed Benefits and Perks\n\nBeyond standard benefits, we offer additional perks that enhance the employee experience:\n\u2022 Growth Opportunities\n\u2022 Health Savings Account (HSA)/Health Reimbursement Account (HRA) Options\n\u2022 Short-Term/Long-Term Disability Insurance\n\u2022 Generous Paid Time Off\n\u2022 Supportive company culture that encourages career advancement\n\nCompensation and Benefits\n\u2022 Competitive financial compensation with various compensation plans\n\u2022 Medical, Dental, Vision Insurance\n\u2022 401k with Matching Contributions\n\u2022 Generous Paid Time Off\n\nWhy you should apply for this position today\n\nThis role offers a unique opportunity to lead AI initiatives within a dynamic company. You will have the chance to work with industry-leading technologies and make a real impact on AI solutions that benefit our partners and their customers. If you are passionate about AI and looking for a place where you can thrive and grow, this could be the perfect fit for you.\n\nSkills\n\u2022 Real-world AI/ML project end-to-end experiences\n\u2022 Proficiency in Python, Ansible, MySQL, Github, Git, GO, ETL, OLAP, RDBMS, Scribus, AWS, Azure, Google\n\u2022 Familiarity with common AI/ML frameworks such as Scikit-learn, Tensorflow, Pytorch, Hugging Face\n\u2022 Knowledge of machine learning techniques (clustering, decision tree, neural network)\n\u2022 Experience implementing and evaluating AI models\n\u2022 Knowledge of data preprocessing and feature engineering\n\u2022 Proficiency with data visualization and analysis tools\n\u2022 Strong analytical and problem-solving skills\n\u2022 AI experience with Nvidia, IBM, Microsoft, Dell, NetApp, HPE, and/or other AI vendors\n\u2022 Experience with data center technologies like VMware, Hyper-V, storage, networking, Microsoft Windows, and Linux Operating Systems\n\u2022 Understanding of cloud platforms like AWS or Azure is a plus\n\u2022 Excellent written and verbal communication skills\n\nResponsibilities\n\u2022 Provide technical leadership related to Arrow\u2019s AI vendors\n\u2022 Lead discovery, analysis, design, demonstration, and deployment of integrated technology solutions\n\u2022 Demonstrate technical expertise with AI, ML, and Data Science/Data Strategy\n\u2022 Develop and propose solutions to meet technology and business requirements\n\u2022 Make technical and sales presentations to vendors, partners, and customers\n\u2022 Collaborate with marketing teams to create digital channel-ready technical content\n\u2022 Build relationships with account teams, partners, and end users to drive AI solutions\n\u2022 Integrate AI algorithms into lab systems and develop scalable AI models\n\u2022 Evaluate and test AI models for accuracy and performance\n\u2022 Optimize AI models for performance and efficiency\n\nQualifications\n\u2022 Typically requires 5 years related experience with a 4-year degree; or 3 years and an advanced degree; or equivalent experience\n\u2022 Highly professional with a track record of delivering quality work on tight schedules\n\u2022 Self-starter who is motivated, proactive, and able to work independently\n\nEducation Requirements\n\u2022 Bachelor\u2019s degree in a relevant field\n\nEducation Requirements Credential Category\n\u2022 Bachelor\u2019s degree or equivalent experience\n\nExperience Requirements\n\u2022 5 years of related experience\n\u2022 Proven experience in implementing AI solutions and evaluating AI models\n\nWhy work in Alpharetta, GA\n\nAlpharetta, GA, is known for its vibrant tech community and offers a high quality of life with numerous amenities. The area boasts excellent schools, diverse dining options, and beautiful parks, creating a perfect balance of work and leisure. With a strong job market and a collaborative environment, Alpharetta is an ideal location for professionals seeking growth and opportunity.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Real-world AI/ML project end-to-end experiences",
+                        "Proficiency in Python, Ansible, MySQL, Github, Git, GO, ETL, OLAP, RDBMS, Scribus, AWS, Azure, Google",
+                        "Familiarity with common AI/ML frameworks such as Scikit-learn, Tensorflow, Pytorch, Hugging Face",
+                        "Knowledge of machine learning techniques (clustering, decision tree, neural network)",
+                        "Experience implementing and evaluating AI models",
+                        "Knowledge of data preprocessing and feature engineering",
+                        "Proficiency with data visualization and analysis tools",
+                        "Strong analytical and problem-solving skills",
+                        "AI experience with Nvidia, IBM, Microsoft, Dell, NetApp, HPE, and/or other AI vendors",
+                        "Experience with data center technologies like VMware, Hyper-V, storage, networking, Microsoft Windows, and Linux Operating Systems",
+                        "Excellent written and verbal communication skills",
+                        "Typically requires 5 years related experience with a 4-year degree; or 3 years and an advanced degree; or equivalent experience",
+                        "Highly professional with a track record of delivering quality work on tight schedules",
+                        "Self-starter who is motivated, proactive, and able to work independently",
+                        "Bachelor\u2019s degree in a relevant field",
+                        "Bachelor\u2019s degree or equivalent experience",
+                        "5 years of related experience",
+                        "Proven experience in implementing AI solutions and evaluating AI models"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Career Growth and Development Opportunities",
+                        "Beyond standard benefits, we offer additional perks that enhance the employee experience:",
+                        "Growth Opportunities",
+                        "Health Savings Account (HSA)/Health Reimbursement Account (HRA) Options",
+                        "Short-Term/Long-Term Disability Insurance",
+                        "Generous Paid Time Off",
+                        "Supportive company culture that encourages career advancement",
+                        "Compensation and Benefits",
+                        "Competitive financial compensation with various compensation plans",
+                        "Medical, Dental, Vision Insurance",
+                        "401k with Matching Contributions",
+                        "Generous Paid Time Off"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role will unify people, processes, and technology to enhance AI adoption by sharing best practices, providing training and enablement, and driving innovation",
+                        "The ideal candidate will be instrumental in the design, development, build, and promotion of AI solutions that tackle complex business challenges alongside our partners and their end customers",
+                        "You will have the chance to work with industry-leading technologies and make a real impact on AI solutions that benefit our partners and their customers",
+                        "Provide technical leadership related to Arrow\u2019s AI vendors",
+                        "Lead discovery, analysis, design, demonstration, and deployment of integrated technology solutions",
+                        "Demonstrate technical expertise with AI, ML, and Data Science/Data Strategy",
+                        "Develop and propose solutions to meet technology and business requirements",
+                        "Make technical and sales presentations to vendors, partners, and customers",
+                        "Collaborate with marketing teams to create digital channel-ready technical content",
+                        "Build relationships with account teams, partners, and end users to drive AI solutions",
+                        "Integrate AI algorithms into lab systems and develop scalable AI models",
+                        "Evaluate and test AI models for accuracy and performance",
+                        "Optimize AI models for performance and efficiency"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Get.It",
+                    "link": "https://www.get.it/job/ai-solutions-architect-in-alpharetta-ga-at-arrow-electronics-ga_538131185327407679?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgQXJjaGl0ZWN0IiwiY29tcGFueV9uYW1lIjoiQXJyb3cgRWxlY3Ryb25pY3MiLCJhZGRyZXNzX2NpdHkiOiJBbHBoYXJldHRhLCBHQSIsImh0aWRvY2lkIjoidnFaamZPSldmbFJycFJudEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "Artificial Intelligence (AI) Solutions Architect",
+            "company_name": "Amivero",
+            "location": "Reston, VA",
+            "via": "Paylocity",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=mLS_lXkS7KgLhRBwAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=mLS_lXkS7KgLhRBwAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "Description\n\nThe Amivero Team\n\nAmivero\u2019s team of IT professionals delivers digital services that elevate the federal government, whether national security or improved government services. Our human-centered, data-driven approach is focused on truly understanding the environment and the challenge, and reimagining with our customer how outcomes can be achieved.\n\nOur team of technologists leverage modern, agile methods to design and develop equitable, accessible, and innovative data and software services that impact hundreds of millions of people.\n\nAs a member of the Amivero team you will use your empathy for a customer\u2019s situation, your passion for service, your energy for solutioning, and your bias towards action to bring modernization to very important, mission-critical, and public service government IT systems.\n\nSpecial Requirements\n\u2022 US Citizenship required to obtain Government Clearance\n\u2022 Bachelor Degree +10 years of relevant experience\n\u2022 Must have customer facing experience\n\nThe Gist\u2026\n\nAs our internal Solutions Architect, your enthusiasm for technology and business development will fuel the growth of our amazing company. Working directly with the Chief Information Officer, you will leverage your expertise and work with directly with Amivero\u2019s Growth and Delivery teams, our current and future customers, industry partners, and our leadership team to ensure the expansion of Amivero\u2019s technical footprint across the Federal Government. You will play a crucial role in designing, developing, and implementing AI-driven solutions across various business functions. You will also lead AI initiatives, developing scalable and robust architectures, and ensuring the seamless integration of AI technologies into existing business processes.\n\nWhat Your Day Might Include\u2026\n\u2022 Lead the design and development of AI architectures that align with business goals. This includes the selection of machine learning models, deep learning algorithms, and AI techniques suited to solve specific business challenges.\n\u2022 Develop new and existing relationships with both Industry Partners and Clients. Gather and understand their areas requiring improvement and support, understand their constraints, and understand the elements needed to develop a winning solution.\n\u2022 Communicate and collaborate with Business Development Team(s).\n\u2022 Partner with internal stakeholders to drive success. Stakeholders include, but are not limited to COP\u2019s, Marketing, Growth and Delivery.\n\u2022 Establish the technical vision for AI projects, ensuring that architectural blueprints are scalable, secure, and high performing.\n\u2022 Ensure modular design principles to support continuous learning and evolution of AI models as new data and requirements emerge.\n\u2022 Engage with various stakeholders (business leaders, product managers, engineers, and end-users) to understand business requirements and translate them into technical AI solutions.\n\u2022 Act as a liaison between technical teams and business units, ensuring that AI initiatives align with strategic business objectives and deliver measurable outcomes.\n\u2022 Present AI concepts, outcomes, and technical roadmaps in clear and non-technical terms to executive leadership and other non-technical stakeholders.\n\u2022 Oversee the full lifecycle of AI model development, from research and prototyping to deployment and monitoring.\n\u2022 Implement CI/CD pipelines for AI models, ensuring that they are regularly updated, retrained, and deployed with minimal downtime or performance degradation.\n\u2022 Define and implement mechanisms for tracking model performance, such as monitoring drift in data or model predictions, and establishing feedback loops for continuous learning.\n\u2022 Ensure AI systems can operate at scale, handling large volumes of data and performing in real-time, where necessary.\n\u2022 Lead post-deployment maintenance efforts, addressing issues like model decay and retraining based on new data inputs.\n\u2022 Define data acquisition, storage, and processing strategies that ensure high-quality input data for AI models.\n\u2022 Oversee data preprocessing and feature engineering processes to ensure model readiness. This includes handling missing data, imbalances, and transformations required for model performance.\n\u2022 Establish data governance policies to ensure data quality, privacy, and compliance with regulatory requirements like GDPR, CCPA, or industry-specific standards.\n\u2022 Provide mentorship and guidance to data scientists, machine learning engineers, and software developers on AI and machine learning best practices.\n\u2022 Serve as the subject matter expert (SME) in AI technologies and methodologies, staying up to date on the latest trends and advancements in the AI landscape, including advancements in NLP, computer vision, reinforcement learning, and AI ethics.\n\u2022 Encourage innovation within the AI team by promoting experimentation and research into new AI technologies and techniques.\n\u2022 Lead AI code reviews, ensuring high-quality coding standards and best practices for performance, scalability, and security are adhered to.\n\u2022 Conduct thorough evaluations of AI tools, libraries, and platforms, assessing their suitability for the organization\u2019s specific AI needs.\n\u2022 Stay informed about new developments in AI/ML software and hardware, such as specialized GPUs, TPUs, or edge computing solutions, and recommend their adoption when beneficial.\n\u2022 Build and maintain relationships with vendors and service providers to ensure access to cutting-edge AI tools and resources.\n\u2022 Facilitate proof-of-concept projects to test emerging AI technologies and determine their potential business value before full-scale adoption.\n\u2022 Lead the implementation of AI governance frameworks, ensuring that AI models operate within defined ethical guidelines and regulations.\n\u2022 Establish processes for auditing AI decisions, ensuring that they are explainable, fair, and unbiased, especially in critical applications like hiring, lending, or medical diagnosis.\n\u2022 Develop AI risk management strategies, identifying potential model failures, security vulnerabilities, or biased outcomes, and ensuring mitigation strategies are in place.\n\u2022 Implement AI transparency frameworks that allow stakeholders to understand how AI models make decisions and allow them to question or challenge those decisions when necessary.\n\u2022 Create and maintain technical documentation, including AI architecture diagrams, data flow diagrams, and API documentation for AI systems.\n\u2022 Regularly document lessons learned from AI deployments, creating a knowledge base to improve future AI initiatives.\n\u2022 Produce detailed reports for stakeholders, covering project progress, performance metrics, return on investment (ROI) estimates, and potential risks or challenges.\n\u2022 Develop and present case studies on successful AI implementations, showcasing the value delivered to the organization and promoting further AI adoption across departments.\n\nRequirements\n\nYou\u2019ll Bring These Qualifications\u2026\n\u2022 US Citizenship required to obtain Public Trust\n\u2022 Bachelor\u2019s in Computer Science, Data Science, Artificial Intelligence, or related field.\n\u2022 7+ years of experience in software engineering, AI, or data science roles, with at least 3+ years focused on AI solution architecture.\n\u2022 Strong understanding of machine learning techniques, natural language processing (NLP), computer vision, deep learning frameworks, and AI ethics.\n\u2022 Hands-on experience with AI platforms such as TensorFlow, PyTorch, and scikit-learn, and familiarity with cloud-based AI solutions (e.g., AWS, Google Cloud AI, Azure).\n\u2022 Expertise in data engineering and data pipelines, including ETL processes, distributed systems, and database management (SQL and NoSQL).\n\u2022 Strong programming skills in Python, R, and knowledge of languages such as Java or C++.\n\u2022 Familiarity with AI/ML model deployment technologies, including Docker, Kubernetes, and CI/CD pipelines.\n\u2022 Excellent communication and interpersonal skills to work effectively with technical and non-technical stakeholders.\n\u2022 Proven ability to manage AI projects end-to-end, from conceptualization to deployment.\n\nEOE/M/F/VET/DISABLED\n\nAll qualified applicants will receive consideration without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. Amivero complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "US Citizenship required to obtain Government Clearance",
+                        "Bachelor Degree +10 years of relevant experience",
+                        "Must have customer facing experience",
+                        "US Citizenship required to obtain Public Trust",
+                        "Bachelor\u2019s in Computer Science, Data Science, Artificial Intelligence, or related field",
+                        "7+ years of experience in software engineering, AI, or data science roles, with at least 3+ years focused on AI solution architecture",
+                        "Strong understanding of machine learning techniques, natural language processing (NLP), computer vision, deep learning frameworks, and AI ethics",
+                        "Hands-on experience with AI platforms such as TensorFlow, PyTorch, and scikit-learn, and familiarity with cloud-based AI solutions (e.g., AWS, Google Cloud AI, Azure)",
+                        "Expertise in data engineering and data pipelines, including ETL processes, distributed systems, and database management (SQL and NoSQL)",
+                        "Strong programming skills in Python, R, and knowledge of languages such as Java or C++",
+                        "Familiarity with AI/ML model deployment technologies, including Docker, Kubernetes, and CI/CD pipelines",
+                        "Excellent communication and interpersonal skills to work effectively with technical and non-technical stakeholders",
+                        "Proven ability to manage AI projects end-to-end, from conceptualization to deployment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Working directly with the Chief Information Officer, you will leverage your expertise and work with directly with Amivero\u2019s Growth and Delivery teams, our current and future customers, industry partners, and our leadership team to ensure the expansion of Amivero\u2019s technical footprint across the Federal Government",
+                        "You will play a crucial role in designing, developing, and implementing AI-driven solutions across various business functions",
+                        "You will also lead AI initiatives, developing scalable and robust architectures, and ensuring the seamless integration of AI technologies into existing business processes",
+                        "Lead the design and development of AI architectures that align with business goals",
+                        "This includes the selection of machine learning models, deep learning algorithms, and AI techniques suited to solve specific business challenges",
+                        "Develop new and existing relationships with both Industry Partners and Clients",
+                        "Gather and understand their areas requiring improvement and support, understand their constraints, and understand the elements needed to develop a winning solution",
+                        "Communicate and collaborate with Business Development Team(s)",
+                        "Partner with internal stakeholders to drive success",
+                        "Stakeholders include, but are not limited to COP\u2019s, Marketing, Growth and Delivery",
+                        "Establish the technical vision for AI projects, ensuring that architectural blueprints are scalable, secure, and high performing",
+                        "Ensure modular design principles to support continuous learning and evolution of AI models as new data and requirements emerge",
+                        "Engage with various stakeholders (business leaders, product managers, engineers, and end-users) to understand business requirements and translate them into technical AI solutions",
+                        "Act as a liaison between technical teams and business units, ensuring that AI initiatives align with strategic business objectives and deliver measurable outcomes",
+                        "Present AI concepts, outcomes, and technical roadmaps in clear and non-technical terms to executive leadership and other non-technical stakeholders",
+                        "Oversee the full lifecycle of AI model development, from research and prototyping to deployment and monitoring",
+                        "Implement CI/CD pipelines for AI models, ensuring that they are regularly updated, retrained, and deployed with minimal downtime or performance degradation",
+                        "Define and implement mechanisms for tracking model performance, such as monitoring drift in data or model predictions, and establishing feedback loops for continuous learning",
+                        "Ensure AI systems can operate at scale, handling large volumes of data and performing in real-time, where necessary",
+                        "Lead post-deployment maintenance efforts, addressing issues like model decay and retraining based on new data inputs",
+                        "Define data acquisition, storage, and processing strategies that ensure high-quality input data for AI models",
+                        "Oversee data preprocessing and feature engineering processes to ensure model readiness",
+                        "This includes handling missing data, imbalances, and transformations required for model performance",
+                        "Establish data governance policies to ensure data quality, privacy, and compliance with regulatory requirements like GDPR, CCPA, or industry-specific standards",
+                        "Provide mentorship and guidance to data scientists, machine learning engineers, and software developers on AI and machine learning best practices",
+                        "Serve as the subject matter expert (SME) in AI technologies and methodologies, staying up to date on the latest trends and advancements in the AI landscape, including advancements in NLP, computer vision, reinforcement learning, and AI ethics",
+                        "Encourage innovation within the AI team by promoting experimentation and research into new AI technologies and techniques",
+                        "Lead AI code reviews, ensuring high-quality coding standards and best practices for performance, scalability, and security are adhered to",
+                        "Conduct thorough evaluations of AI tools, libraries, and platforms, assessing their suitability for the organization\u2019s specific AI needs",
+                        "Stay informed about new developments in AI/ML software and hardware, such as specialized GPUs, TPUs, or edge computing solutions, and recommend their adoption when beneficial",
+                        "Build and maintain relationships with vendors and service providers to ensure access to cutting-edge AI tools and resources",
+                        "Facilitate proof-of-concept projects to test emerging AI technologies and determine their potential business value before full-scale adoption",
+                        "Lead the implementation of AI governance frameworks, ensuring that AI models operate within defined ethical guidelines and regulations",
+                        "Establish processes for auditing AI decisions, ensuring that they are explainable, fair, and unbiased, especially in critical applications like hiring, lending, or medical diagnosis",
+                        "Develop AI risk management strategies, identifying potential model failures, security vulnerabilities, or biased outcomes, and ensuring mitigation strategies are in place",
+                        "Implement AI transparency frameworks that allow stakeholders to understand how AI models make decisions and allow them to question or challenge those decisions when necessary",
+                        "Create and maintain technical documentation, including AI architecture diagrams, data flow diagrams, and API documentation for AI systems",
+                        "Regularly document lessons learned from AI deployments, creating a knowledge base to improve future AI initiatives",
+                        "Produce detailed reports for stakeholders, covering project progress, performance metrics, return on investment (ROI) estimates, and potential risks or challenges",
+                        "Develop and present case studies on successful AI implementations, showcasing the value delivered to the organization and promoting further AI adoption across departments"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Paylocity",
+                    "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/2717382/Amivero/Artificial-Intelligence-AI-Solutions-Architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJBbWl2ZXJvIiwiYWRkcmVzc19jaXR5IjoiUmVzdG9uLCBWQSIsImh0aWRvY2lkIjoibUxTX2xYa1M3S2dMaFJCd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "Solutions Architect, Generative AI",
+            "company_name": "NVIDIA",
+            "location": "New York, NY",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=M0uE4t2yis4r4WYMAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=M0uE4t2yis4r4WYMAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6722752e5235f67e9e0397ae/images/3bb270d7b14859509a2e6ff61582d26008fa37b83013aa5a7e43fccfa5216daf.jpeg",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "We are looking for a AI Solution Architect Engineer with experience in Generative AI software development and deployment. As part of the Solution Architect organization, we work with the most exciting computing hardware and software, driving the latest breakthroughs in deep learning and AI with NVIDIA\u2019s key customers. This role offers an excellent opportunity to build your career in the rapidly growing field of AI while working with the world's most successful technology companies. Primary responsibilities will be to lead software customer technical engagements with NVIDIA products and technologies. Join us in this exciting endeavor!\n\nWhat You\u2019ll Be Doing\n\u2022 Develop and demonstrate software solutions based on NVIDIA\u2019s ground breaking AI software and hardware technologies to customers. Develop GenAI model pipeline and perform in-depth analysis and optimization to ensure the best performance on current- and next-generation GPU architectures\n\u2022 Develop and debug software for NVIDIA and OSS AI frameworks and libraries\n\u2022 Lead and develop proof-of-concepts (PoCs) for software solutions applied to Consumer Internet industry use-cases such as NLP/LLM, retrieval, recommender, etc. by working closely with customer's AI developers. Build collateral (notebook/code) for PoCs\n\u2022 Work closely with business development team owning the technical relationship and enabling customer in building innovative solutions based on NVIDIA technologies\n\u2022 Partner with NVIDIA software engineering, product, sales teams to secure design wins at customers. Enable development and growth of NVIDIA product features through customer feedback and PoC evaluations\n\nWhat We Need To See\n\u2022 BS, MS, or PhD in Computer Science, Electrical/Computer Engineering, Physics, Mathematics, or other Engineering fields or equivalent experience\n\u2022 5+ years of experience as an AI/Software Engineer with proven track record coding in Python and/or C++ with popular AI software libraries and GPUs\n\u2022 Experience with GenAI applications and LLM training/fine-tuning, inference optimization and/or RAG pipelines\n\u2022 Ability to communicate your ideas/code clearly through GitHub, documentation\n\u2022 Great teammate who enjoys collaborating with teams across the organization such as Engineering/Research, Sales, Product, and Marketing\n\u2022 Effective verbal/written communication, and technical presentation skills\n\u2022 Self-starter with passion for growth, enthusiasm for continuous learning and sharing findings across the team\n\nWays To Stand Out From The Crowd\n\u2022 Experience working with enterprise developers and customer facing skills\n\u2022 Experience with large-scale production data pipelines and AI model training/deployment\n\u2022 Knowledge of MLOps technologies such as containers, Kubernetes, data center deployments etc.\n\u2022 Able to think creatively to debug and solve complex problems\n\nWe make extensive use of conferencing tools, but occasional travel is required for local on-site visit to customers and data science conferences. We are open to remote work location. We look forward to have you join our team!\n\nWith highly competitive salaries, a comprehensive benefits package, and an excellent engineering work culture, NVIDIA is widely considered to be one of the technology industry's most desirable employers. NVIDIA has some of the most innovative people working on meaningful problems that are defining the field of ML/DL, data science, robotics, and graphics.\n\nThe base salary range is 148,000 USD - 230,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.\n\nYou will also be eligible for equity and benefits . NVIDIA accepts applications on an ongoing basis.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\nJR1988522",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS, or PhD in Computer Science, Electrical/Computer Engineering, Physics, Mathematics, or other Engineering fields or equivalent experience",
+                        "5+ years of experience as an AI/Software Engineer with proven track record coding in Python and/or C++ with popular AI software libraries and GPUs",
+                        "Experience with GenAI applications and LLM training/fine-tuning, inference optimization and/or RAG pipelines",
+                        "Ability to communicate your ideas/code clearly through GitHub, documentation",
+                        "Great teammate who enjoys collaborating with teams across the organization such as Engineering/Research, Sales, Product, and Marketing",
+                        "Effective verbal/written communication, and technical presentation skills",
+                        "Self-starter with passion for growth, enthusiasm for continuous learning and sharing findings across the team",
+                        "Ways To Stand Out From The Crowd",
+                        "Experience working with enterprise developers and customer facing skills",
+                        "Experience with large-scale production data pipelines and AI model training/deployment",
+                        "Knowledge of MLOps technologies such as containers, Kubernetes, data center deployments etc",
+                        "Able to think creatively to debug and solve complex problems",
+                        "We make extensive use of conferencing tools, but occasional travel is required for local on-site visit to customers and data science conferences"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+                        "You will also be eligible for equity and benefits "
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Primary responsibilities will be to lead software customer technical engagements with NVIDIA products and technologies",
+                        "Develop and demonstrate software solutions based on NVIDIA\u2019s ground breaking AI software and hardware technologies to customers",
+                        "Develop GenAI model pipeline and perform in-depth analysis and optimization to ensure the best performance on current- and next-generation GPU architectures",
+                        "Develop and debug software for NVIDIA and OSS AI frameworks and libraries",
+                        "Lead and develop proof-of-concepts (PoCs) for software solutions applied to Consumer Internet industry use-cases such as NLP/LLM, retrieval, recommender, etc",
+                        "by working closely with customer's AI developers",
+                        "Build collateral (notebook/code) for PoCs",
+                        "Work closely with business development team owning the technical relationship and enabling customer in building innovative solutions based on NVIDIA technologies",
+                        "Partner with NVIDIA software engineering, product, sales teams to secure design wins at customers",
+                        "Enable development and growth of NVIDIA product features through customer feedback and PoC evaluations"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/solutions-architect-generative-ai-at-nvidia-4042432889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobServe",
+                    "link": "https://www.jobserve.com/us/en/extjob/SOLUTIONS-ARCHITECT-GENERATIVE-AI-in-New-York-NewYork-USA-5473CDA28173D95963/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-277522397809650221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IT Jobs For Stevenage Fans",
+                    "link": "https://itjobs.stevenagefc.com/job-in-New-York-NewYork-USA/SOLUTIONS-ARCHITECT-GENERATIVE-AI-79983bd5596d96254b/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Houston Jobs",
+                    "link": "https://houstonjobs.info/job/senior-solutions-architect-generative-ai-inference-santa-clara-nvidia-scrapinghub33470-jr1969237-united-states/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobNet - IT Jobs",
+                    "link": "https://it.jobnet.com.au/job-in-New-York-NewYork-USA/SOLUTIONS-ARCHITECT-GENERATIVE-AI-ffe518a524249bf57c/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ComputerJobs - NY Jobs",
+                    "link": "https://ny.computerjobs.com/search-jobs-in-New-York-NewYork-USA/SOLUTIONS-ARCHITECT-GENERATIVE-AI-09563c6577efb8ab75/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2x1dGlvbnMgQXJjaGl0ZWN0LCBHZW5lcmF0aXZlIEFJIiwiY29tcGFueV9uYW1lIjoiTlZJRElBIiwiYWRkcmVzc19jaXR5IjoiTmV3IFlvcmssIE5ZIiwiaHRpZG9jaWQiOiJNMHVFNHQyeWlzNHI0V1lNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIn0="
+        },
+        {
+            "title": "AI SOLUTIONS ARCHITECT",
+            "company_name": "Poo~Pourri",
+            "location": "Austin, TX",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=A1DlCZHp3NjovdncAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=A1DlCZHp3NjovdncAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6722752e5235f67e9e0397ae/images/3bb270d7b1485950a2292384fd044abb83d5e6c8633b067a297e2b284774fff6.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "AI SOLUTIONS ARCHITECT\n\nMust live in Austin, Texas Area\n\nSuzy Batiz, the innovative founder of Poo~Pourri and Supernatural, is on the lookout for a bold, abundance-driven, Software Engineer to join our latest venture, The Ninth. This new Brand Incubator and collective agency aims to build captivating brands and products through future-facing technology, Creative problem solving, and years of award winning creative and marketing philosophies.\n\nJoin the creative powerhouse behind renowned brands like Poo~Pourri and Supernatural at The Ninth, a vibrant new incubator and collective agency spearheaded by Suzy Batiz. We are currently seeking a skilled Software Engineer who specializes in AI Solutions.\n\n~THE JOB:\n\nThe Ninth is looking for a dynamic AI Architect to spearhead their AI initiatives, guiding the integration of artificial intelligence into various aspects of creative solutions business. You will design AI systems from the ground up, collaborate with multidisciplinary teams to tailor AI solutions to specific business needs, and ensure these solutions are scalable and sustainable. Your expertise will help us harness the power of AI to drive innovation, improve decision-making, and maintain competitive advantage in our industry.\n\u2022 Design, develop, and oversee the implementation of end-to-end AI solutions\n\u2022 Collaborate with business and IT stakeholders to understand and fulfill the AI needs of the organization\n\u2022 Create architectural approaches for AI software and hardware integration\n\u2022 Define AI solution objectives and ensure alignment with business outcomes\n\u2022 Monitor AI industry trends and maintain state-of-the-art industry knowledge\n\u2022 Implement best practices for AI testing, deployment, and maintenance\n\u2022 Master's or Ph.D. in Computer Science, Artificial Intelligence, or a related field\n\u2022 Extensive experience in designing AI applications and knowledge of machine learning frameworks like TensorFlow or PyTorch\n\n~THE QUALIFICATIONS:\n\u2022 A BA/BS Degree with 6+ years of experience, or a MS Degree with 4+ years of experience, or a Ph.D with one year of experience, or 8 years of overall experience without a degree\n\u2022 Machine Learning and AI Principles:Understand the core algorithms, neural networks, and data processing techniques that power AI.\n\u2022 Programming Proficiency:Be adept in languages such as Python, R, and Java, crucial for building and refining AI models.\n\u2022 Data Engineering:Navigate vast data lakes with skills in data extraction, transformation, and load (ETL) processes.\n\u2022 Cloud Computing:Leverage cloud platforms like AWS, Azure, or Google Cloud to scale AI solutions efficiently.\n\u2022 DevOps Practices:Integrate AI development with continuous integration and deployment pipelines for streamlined delivery.\n\u2022 Analytics and Business Intelligence:Translate data insights into actionable business strategies.\n\u2022 Stays up to date with the latest trends and understands industry-specific challenges to create tailored AI solutions.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master's or Ph.D. in Computer Science, Artificial Intelligence, or a related field",
+                        "Extensive experience in designing AI applications and knowledge of machine learning frameworks like TensorFlow or PyTorch",
+                        "A BA/BS Degree with 6+ years of experience, or a MS Degree with 4+ years of experience, or a Ph.D with one year of experience, or 8 years of overall experience without a degree",
+                        "Machine Learning and AI Principles:Understand the core algorithms, neural networks, and data processing techniques that power AI",
+                        "Programming Proficiency:Be adept in languages such as Python, R, and Java, crucial for building and refining AI models",
+                        "Data Engineering:Navigate vast data lakes with skills in data extraction, transformation, and load (ETL) processes",
+                        "Cloud Computing:Leverage cloud platforms like AWS, Azure, or Google Cloud to scale AI solutions efficiently",
+                        "DevOps Practices:Integrate AI development with continuous integration and deployment pipelines for streamlined delivery",
+                        "Analytics and Business Intelligence:Translate data insights into actionable business strategies",
+                        "Stays up to date with the latest trends and understands industry-specific challenges to create tailored AI solutions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Ninth is looking for a dynamic AI Architect to spearhead their AI initiatives, guiding the integration of artificial intelligence into various aspects of creative solutions business",
+                        "You will design AI systems from the ground up, collaborate with multidisciplinary teams to tailor AI solutions to specific business needs, and ensure these solutions are scalable and sustainable",
+                        "Your expertise will help us harness the power of AI to drive innovation, improve decision-making, and maintain competitive advantage in our industry",
+                        "Design, develop, and oversee the implementation of end-to-end AI solutions",
+                        "Collaborate with business and IT stakeholders to understand and fulfill the AI needs of the organization",
+                        "Create architectural approaches for AI software and hardware integration",
+                        "Define AI solution objectives and ensure alignment with business outcomes",
+                        "Monitor AI industry trends and maintain state-of-the-art industry knowledge",
+                        "Implement best practices for AI testing, deployment, and maintenance"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Poo~Pourri/Job/AI-SOLUTIONS-ARCHITECT/-in-Austin,TX?jid=c536419731ceacaf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/ai-solutions-architect-advanced-micro-devices-inc-JV_IC1139761_KO0,22_KE23,49.htm?jl=1009372105151&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-3736059950650293965?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://us.bebee.com/job/f2971b020b9ad6e610a8d3db2757d815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/ai-solutions-architect-poo-pourri-austin-tx_76978842?ir=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talentify",
+                    "link": "https://www.talentify.io/job/ai-solutions-architect-austin-texas-us-poopourri-196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/ai-solutions-architect-jobs/2ADC0D849C4DF125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-3035-317347dc13844fb7ae1042b138036ec8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTT0xVVElPTlMgQVJDSElURUNUIiwiY29tcGFueV9uYW1lIjoiUG9vflBvdXJyaSIsImFkZHJlc3NfY2l0eSI6IkF1c3RpbiwgVFgiLCJodGlkb2NpZCI6IkExRGxDWkhwM05qb3ZkbmNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "AI Solution Architect",
+            "company_name": "Deloitte",
+            "location": "Grand Rapids, MI",
+            "via": "Deloitte Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=HvH5o24c82FgamWYAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=HvH5o24c82FgamWYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6722752e5235f67e9e0397ae/images/3bb270d7b1485950eef82b9fddafac06a3c07690e346d590937809dd3ac7f592.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "description": "The Human Capital Offering Portfolio focuses on helping organizations manage and sustain their performance through their most important asset: their people. To stay in front, organizations need to have real-time access to Human Capital insights, experts and innovative technology solutions that are designed to not only drive but sustain and extend organizational performance and engagement. Supporting the products and capabilities of the Human Capital Offering Portfolio, our Engineering team is full of passionate, energetic, and multi-talented engineers who are excited about building the world's greatest personalized and business friendly applications. Recently building AI capabilities in all of our existing assets and building new AI enabled assets.\n\nThe AI Solution Architect in Deloitte's Human Capital Consulting HC Forward/Asset Development will be tasked with leading the design, architecture, and implementation of innovative Data products and AI solutions aimed at enhancing the Human Capital Offering Portfolio. This role is pivotal in leveraging Data and AI technologies, requiring a deep understanding of Data Science, Statistics, Machine Learning, Generative AI, Large Language Models (LLMs), and Multimodal models. The AI Architect will provide real-time Human Capital insights and develop technology solutions that drive and sustain organizational performance and engagement.\n\nAdditionally, the AI Solution Architect will oversee the architecture for AI solution teams, focusing on modifying existing products and creating new ones. The ideal candidate will be passionate about designing, building, implementing, and maintaining industrial AI/ML/Generative AI applications. Leadership skills are essential to implement the latest AI techniques and architectures and to continuously improve the AI/ML development, delivery, and operations process. The role involves adhering to best practices from Software Engineering, DevOps, MLOps, and LLMOps.\n\nThe AI Solution Architect will also be responsible for translating project requirements into strategic architecture solutions, ensuring the integration of cloud-native tools from major hyperscalers and machine learning to create chatbots, optimizations, and cognitive services. This role requires a blend of technical expertise and the ability to bridge the gap between intricate business challenges and transformative AI solutions, making it a strategically crucial position.\n\nRecruiting for this role ends on 12/31/24.\n\nWork you'll do:\n\nStrategic Alignment and Vision\n\u2022 Define and oversee the AI/ML/GenAI technical direction and architectural vision, ensuring alignment with strategic goals and digital transformation efforts\n\u2022 Translate the vision of business leaders into realistic technical implementations, while identifying misaligned initiatives and impractical use cases\n\nArchitectural Design and Technology Selection\n\u2022 Key contributor in architecting a comprehensive AI Engineering framework that supports the deployment, evaluation, and management of ML models & GenAI solutions\n\u2022 Select appropriate technologies from a pool of open-source and commercial offerings, considering deployment models and integration with existing tools\n\u2022 Understand and contribute to MLOps and LLMOps, focusing on operational capabilities and infrastructure to deploy and manage machine learning models and large language models\n\nCollaboration and Stakeholder Engagement\n\u2022 Collaborate with Enterprise, Application, Data & DevOps Architects, Data scientists, Machine Learning & GenAI Engineers, and Business teams to pilot use cases and discuss architectural design\n\u2022 Gather inputs from multiple stakeholders to align technical implementation with existing and future requirements\n\u2022 Develop and maintain contact with top decision makers, lead proposal development, and contribute to pricing strategies\n\nOperational Excellence and Continuous Improvement\n\u2022 Be responsible for the successful execution of AI-powered applications using agile methodology\n\u2022 Audit AI tools and practices across data, models and software engineering, focusing on continuous improvement and feedback mechanisms\n\u2022 Contribute to standardizing CI/CD pipelines, user and service roles, and container creation, model consumption, testing, and deployment methodology based on business and security requirements\n\nRisk Management and Ethical Considerations\n\u2022 Work closely with security and risk leaders to foresee and mitigate risks, ensuring ethical AI implementation and compliance with upcoming regulations\n\u2022 Address potential issues such as training data poisoning, AI model theft, and adversarial samples\n\nProduct Strategy and Business Understanding\n\u2022 Help AI product managers and business stakeholders understand the potential and limitations of AI when planning new products\n\u2022 Break down client problems and bring an understanding of leading technology, analytics methods, tools, and operating model approaches\n\nResearch and Development\n\u2022 Conduct research to provide technical solutions to scale AI/ML powered features for real-world challenges, making trade-offs based on quality, scalability, performance, and cost\n\nTool Development and Data Management\n\u2022 Build tools and capabilities that assist with data ingestion, feature engineering, data management, and organization\n\u2022 Design, implement, and maintain distributed computing solutions for data processing and model training, ensuring the security, scalability, and reliability of machine learning infrastructure\n\nRequired Qualifications:\n\u2022 Bachelor's Degree in any of Computer Science, Engineering, Statistics, Data Science or a related field.\n\u2022 8+ years of experience leading a technical team (both onshore and offshore).\n\u2022 8+ years of experience gathering non-functional requirements, performing designed and validated application architecture frameworks, and executing functional and testing assignments\n\u2022 2+ years of experience building GenAI environments\n\u2022 8+ years of experience translating requirements into client ready design documents\n\u2022 8+ years of experience with application architecture analysis, design, and delivery\n\u2022 8+ years of full system development life cycle implementations\n\u2022 Ability to travel 0-25%, on average, based on the work you do and the clients and industries/sectors you serve\n\u2022 Limited immigration sponsorship may be available\n\nPreferred Qualifications:\n\u2022 Advanced degrees such as Masters is preferred\n\u2022 Certifications in AI/ML technologies and Cloud platforms, such as AWS Certified Machine Learning - Specialty, Google Cloud Professional Machine Learning Engineer, Azure AI Engineer, Azure Data Scientist, or Azure Solutions Architect\n\u2022 8+ year of experience in implementing cloud-based AI/ML workloads on any of AWS, Microsoft and Azure\n\nInformation for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\n\nPossible Locations: Atlanta, Austin, Baltimore, Birmingham, Boca Raton, Boise, Boston, Charlotte, Chicago, Cincinnati, Cleveland, Columbus, Costa Mesa, Dallas, Davenport, Dayton, Denver, Des Moines, Detroit, Fort Worth, Fresno, Grand Rapids, Harrisburg, Hartford, Houston, Indianapolis, Jacksonville, Jersey City, Kansas City, Las Vegas, Los Angeles, Louisville, McLean, Memphis, Miami, Midland, Minneapolis, Morristown, Nashville, New Orleans, New York, Philadelphia, Pleasanton, Pittsburgh, Portland, Princeton, Raleigh, Richmond, Rochester, Rosslyn, Sacramento, Salt Lake City, San Diego, San Francisco, San Jose, Seattle, St. Louis, Stamford, Tampa, Tempe, Tulsa, Washington DC\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $167,325 to $278,875.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nFor more information about Human Capital, visit our landing page at: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-human-capital-consulting-jobs.html\n\n#HC24 #HCaaS24\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Product Strategy and Business Understanding",
+                        "Bachelor's Degree in any of Computer Science, Engineering, Statistics, Data Science or a related field",
+                        "8+ years of experience leading a technical team (both onshore and offshore)",
+                        "8+ years of experience gathering non-functional requirements, performing designed and validated application architecture frameworks, and executing functional and testing assignments",
+                        "2+ years of experience building GenAI environments",
+                        "8+ years of experience translating requirements into client ready design documents",
+                        "8+ years of experience with application architecture analysis, design, and delivery",
+                        "8+ years of full system development life cycle implementations",
+                        "Ability to travel 0-25%, on average, based on the work you do and the clients and industries/sectors you serve",
+                        "Limited immigration sponsorship may be available"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
+                        "A reasonable estimate of the current range is $167,325 to $278,875",
+                        "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The AI Architect will provide real-time Human Capital insights and develop technology solutions that drive and sustain organizational performance and engagement",
+                        "Additionally, the AI Solution Architect will oversee the architecture for AI solution teams, focusing on modifying existing products and creating new ones",
+                        "The ideal candidate will be passionate about designing, building, implementing, and maintaining industrial AI/ML/Generative AI applications",
+                        "Leadership skills are essential to implement the latest AI techniques and architectures and to continuously improve the AI/ML development, delivery, and operations process",
+                        "The role involves adhering to best practices from Software Engineering, DevOps, MLOps, and LLMOps",
+                        "The AI Solution Architect will also be responsible for translating project requirements into strategic architecture solutions, ensuring the integration of cloud-native tools from major hyperscalers and machine learning to create chatbots, optimizations, and cognitive services",
+                        "This role requires a blend of technical expertise and the ability to bridge the gap between intricate business challenges and transformative AI solutions, making it a strategically crucial position",
+                        "Strategic Alignment and Vision",
+                        "Define and oversee the AI/ML/GenAI technical direction and architectural vision, ensuring alignment with strategic goals and digital transformation efforts",
+                        "Translate the vision of business leaders into realistic technical implementations, while identifying misaligned initiatives and impractical use cases",
+                        "Key contributor in architecting a comprehensive AI Engineering framework that supports the deployment, evaluation, and management of ML models & GenAI solutions",
+                        "Select appropriate technologies from a pool of open-source and commercial offerings, considering deployment models and integration with existing tools",
+                        "Understand and contribute to MLOps and LLMOps, focusing on operational capabilities and infrastructure to deploy and manage machine learning models and large language models",
+                        "Collaboration and Stakeholder Engagement",
+                        "Collaborate with Enterprise, Application, Data & DevOps Architects, Data scientists, Machine Learning & GenAI Engineers, and Business teams to pilot use cases and discuss architectural design",
+                        "Gather inputs from multiple stakeholders to align technical implementation with existing and future requirements",
+                        "Develop and maintain contact with top decision makers, lead proposal development, and contribute to pricing strategies",
+                        "Operational Excellence and Continuous Improvement",
+                        "Be responsible for the successful execution of AI-powered applications using agile methodology",
+                        "Audit AI tools and practices across data, models and software engineering, focusing on continuous improvement and feedback mechanisms",
+                        "Contribute to standardizing CI/CD pipelines, user and service roles, and container creation, model consumption, testing, and deployment methodology based on business and security requirements",
+                        "Risk Management and Ethical Considerations",
+                        "Work closely with security and risk leaders to foresee and mitigate risks, ensuring ethical AI implementation and compliance with upcoming regulations",
+                        "Address potential issues such as training data poisoning, AI model theft, and adversarial samples",
+                        "Help AI product managers and business stakeholders understand the potential and limitations of AI when planning new products",
+                        "Break down client problems and bring an understanding of leading technology, analytics methods, tools, and operating model approaches",
+                        "Conduct research to provide technical solutions to scale AI/ML powered features for real-world challenges, making trade-offs based on quality, scalability, performance, and cost",
+                        "Tool Development and Data Management",
+                        "Build tools and capabilities that assist with data ingestion, feature engineering, data management, and organization",
+                        "Design, implement, and maintain distributed computing solutions for data processing and model training, ensuring the security, scalability, and reliability of machine learning infrastructure"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Deloitte Jobs",
+                    "link": "https://jobsus.deloitte.com/grand-rapids-mi/ai-solution-architect/627C0DF489F945D78C25FDF425A93F72/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Deloitte-US/Job/AI-Solution-Architect/-in-Grand-Rapids,MI?jid=b94dcc71d3d6e3d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbiBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJEZWxvaXR0ZSIsImFkZHJlc3NfY2l0eSI6IkdyYW5kIFJhcGlkcywgTUkiLCJodGlkb2NpZCI6Ikh2SDVvMjRjODJGZ2FtV1lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+        },
+        {
+            "title": "Generative AI Solutions Architect",
+            "company_name": "Autonomize",
+            "location": "Austin, TX",
+            "via": "Capital Factory Job Board",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=W57pD75ccT9UObWpAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=W57pD75ccT9UObWpAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6722752e5235f67e9e0397ae/images/3bb270d7b1485950c6b65a4988d25cfaabff3352516d0a3734b39053a678a3f7.png",
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "Job Title: Generative AI Solutions Architect\n\nLocation: Austin, Texas (Remote considered)\n\nAbout Us: Autonomize AI is a leading provider of Generative AI Solutions in the healthcare industry. Our AI copilots organize, contextualize, and summarize unstructured data, reducing the administrative burden for healthcare knowledge workers and improving patient outcomes. Autonomize AI is a proud founding member of CancerX, President Biden's Cancer Moonshot initiative. Our customers include Top 20 pharma, F100 Payors, and life sciences companies.\n\nJob Description:\n\nWe are seeking a highly skilled Generative AI Solutions Architect to join our dynamic team. The ideal candidate will have a deep understanding of prompt engineering, NLP/language models, a solid foundation in software development, extensive architecture experience, and a comprehensive knowledge of healthcare interoperability and data landscapes. You will work closely with health plans and providers to design and implement AI solutions using our Copilots and AI agents.\n\nKey Responsibilities:\n\u2022 Collaborate with health plans and providers to understand their needs and challenges, and design customized AI solutions using our Copilots and AI agents.\n\u2022 Develop and implement prompt engineering strategies to optimize the performance and accuracy of our AI solutions.\n\u2022 Architect scalable and efficient AI systems, ensuring seamless integration with existing healthcare infrastructures.\n\u2022 Provide technical leadership and guidance throughout the project lifecycle, from initial concept through deployment and support.\n\u2022 Work closely with cross-functional teams, including data scientists, software engineers, and product managers, to deliver high-quality solutions.\n\u2022 Stay updated on the latest advancements in generative AI, prompt engineering, and healthcare interoperability standards.\n\nQualifications:\n\u2022 Bachelor's or Master's degree in Computer Science, Engineering, or a related field.\n\u2022 Proven experience in designing and architecting AI solutions, preferably in the healthcare industry.\n\u2022 Deep familiarity with prompt engineering and natural language processing.\n\u2022 Proficiency in software development with experience in Python, Java, or other relevant programming languages.\n\u2022 Strong understanding of healthcare data interoperability standards such as HL7, FHIR, and DICOM.\n\u2022 Excellent problem-solving skills and the ability to work in a fast-paced, collaborative environment.\n\u2022 Strong communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.\n\nPreferred Qualifications:\n\u2022 Experience working with health plans and providers.\n\u2022 Knowledge of AI/ML frameworks and libraries such as TensorFlow, PyTorch, or similar.\n\u2022 Familiarity with cloud platforms (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes).\n\nWhat We Offer:\n\u2022 Opportunity to make a tangible impact in the healthcare industry.\n\u2022 Collaborative, innovative, and supportive team culture.\n\u2022 Ownership, Autonomy & Mastery\n\u2022 Competitive salary, benefits, and growth opportunities.\n\nHow to Apply:\n\nInterested candidates are invited to submit their resume and a cover letter outlining their qualifications and experience to careers@autonomize.ai. Please include \"Generative AI Solutions Architect\" in the subject line of your email. Autonomize AI is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have a deep understanding of prompt engineering, NLP/language models, a solid foundation in software development, extensive architecture experience, and a comprehensive knowledge of healthcare interoperability and data landscapes",
+                        "Bachelor's or Master's degree in Computer Science, Engineering, or a related field",
+                        "Proven experience in designing and architecting AI solutions, preferably in the healthcare industry",
+                        "Deep familiarity with prompt engineering and natural language processing",
+                        "Proficiency in software development with experience in Python, Java, or other relevant programming languages",
+                        "Strong understanding of healthcare data interoperability standards such as HL7, FHIR, and DICOM",
+                        "Excellent problem-solving skills and the ability to work in a fast-paced, collaborative environment",
+                        "Strong communication skills, with the ability to convey complex technical concepts to non-technical stakeholders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Opportunity to make a tangible impact in the healthcare industry",
+                        "Collaborative, innovative, and supportive team culture",
+                        "Ownership, Autonomy & Mastery",
+                        "Competitive salary, benefits, and growth opportunities"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work closely with health plans and providers to design and implement AI solutions using our Copilots and AI agents",
+                        "Collaborate with health plans and providers to understand their needs and challenges, and design customized AI solutions using our Copilots and AI agents",
+                        "Develop and implement prompt engineering strategies to optimize the performance and accuracy of our AI solutions",
+                        "Architect scalable and efficient AI systems, ensuring seamless integration with existing healthcare infrastructures",
+                        "Provide technical leadership and guidance throughout the project lifecycle, from initial concept through deployment and support",
+                        "Work closely with cross-functional teams, including data scientists, software engineers, and product managers, to deliver high-quality solutions",
+                        "Stay updated on the latest advancements in generative AI, prompt engineering, and healthcare interoperability standards"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Capital Factory Job Board",
+                    "link": "https://jobs.capitalfactory.com/companies/autonomize/jobs/37835461-generative-ai-solutions-architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ATX Venture Partners",
+                    "link": "https://jobs.atxventurepartners.com/companies/autonomize/jobs/37835461-generative-ai-solutions-architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://us.bebee.com/job/4dac0a620daaad539a9287698afa9c02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJHZW5lcmF0aXZlIEFJIFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJBdXRvbm9taXplIiwiYWRkcmVzc19jaXR5IjoiQXVzdGluLCBUWCIsImh0aWRvY2lkIjoiVzU3cEQ3NWNjVDlVT2JXcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "Solutions Architect, Generative AI Specialist",
+            "company_name": "2100 NVIDIA USA",
+            "location": "United States",
+            "via": "Workday",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=2yWv4w0lVfoob5QkAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=2yWv4w0lVfoob5QkAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "Do you want to be part of the team that brings Artificial Intelligence (AI) emerging technology to the field? We are looking for a Solution Architect or Data Scientist to join the NVIDIA AI Specialist team focused on Machine Learning, Deep Learning, and Accelerated Data Analytics. If you are passionate about AI and how it can be applied to solve real-world problems, we should talk. NVIDIA is the world leader in GPU accelerated computing and AI, and is looking for developers like you to design and build enterprise AI solutions using our newest technology. As a member of the AI Specialist Solution Architecture team, you will work closely with customers and partners to tackle hard problems across industries and build and deploy AI solutions in production at scale. What you\u2019ll be doing: A big part of our day-to-day job is developing end-to-end Machine Learning & Deep Learning solutions and recipes that enable Enterprise use cases. We work with customers to successfully adopt NVIDIA AI SDKs and APIs by providing deep technical product expertise. We solve customer problems by creating solutions using our innovative technology for Machine Learning and Deep Learning including Large Language Models, Computer Vision systems, Recommender systems, and Advanced Generative AI systems. As we work with customers across multiple industries, we identify common trends that lead to success. With this knowledge, we help improve NVIDIA products and build creative solutions to overcome adoption challenges. We contribute to the wider organization and community by sharing our expert knowledge with others. This can vary from building hands-on training to writing papers, developer blogs, and teaching. Above all, you will be part of the team that helps bring NVIDIA technology to life in the Enterprise! We empower you and give you the tools to achieve this with the backing of all of NVIDIA, including other Solution Architects, Product, Engineering and Research teams. You\u2019ll get to be the face and trusted expert advisor that our customers and partners rely on. What we need to see: Strong foundational expertise, from a BS, MS, or Ph.D. degree in Engineering, Mathematics, Physics, Computer Science, Data Science, or similar (or equivalent experience). 5+ years experience demonstrating an established track record in Deep Learning and Machine Learning; experience with GPUs as well as expertise in using deep learning frameworks such as TensorFlow or PyTorch. Strong analytical and problem-solving skills. Strong coding development and debugging skills. Including experience with Python, C/C++, Bash, as well as Cloud services, Spark and Linux. Experience working with NVIDIA Infrastructure, DevOps and MLOps including but not limited to Docker/Containers, Kubernetes, and Data Center or Cloud AI deployments. Ability to multitask effectively in a dynamic environment. Clear written and oral communications skills with the ability to effectively collaborate with executives and engineering teams. Successful candidates will be able to demonstrate a strong desire to share knowledge with clients, partners, and co-workers. Ways to stand out from the crowd: Demonstrate expertise and hands-on experience with NVIDIA AI products. Some products of interest include Machine Learning (RAPIDS and sparks-rapids), Natural Language Processing and Large Language Models (NVIDIA NEMO), Logistics and Route Optimization (NVIDIA CuOpt), Recommender systems (NVIDIA Merlin) and Generative AI technologies (AI Foundations). Software development experience in enterprise scale applications and experience in complete Software Development Life Cycle (SDLC). Experience and understanding of the latest Deep Learning Architectures and training techniques. Most importantly, Transformers Models and the latest customization techniques such as SFT, Parameter Efficient Fine Tuning, and Reinforcement Learning Human Feedback. Leadership experience working with customers and managing large projects with multiple collaborators. Show willingness and ability to dig into unfamiliar territories to solve complex problems relying on experience from previous work. The base salary range is 120,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. You will also be eligible for equity and benefits. NVIDIA accepts applications on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. NVIDIA is the world leader in accelerated computing. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society. Learn more about NVIDIA.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "What we need to see: Strong foundational expertise, from a BS, MS, or Ph.D. degree in Engineering, Mathematics, Physics, Computer Science, Data Science, or similar (or equivalent experience)",
+                        "5+ years experience demonstrating an established track record in Deep Learning and Machine Learning; experience with GPUs as well as expertise in using deep learning frameworks such as TensorFlow or PyTorch",
+                        "Strong analytical and problem-solving skills",
+                        "Strong coding development and debugging skills",
+                        "Including experience with Python, C/C++, Bash, as well as Cloud services, Spark and Linux",
+                        "Experience working with NVIDIA Infrastructure, DevOps and MLOps including but not limited to Docker/Containers, Kubernetes, and Data Center or Cloud AI deployments",
+                        "Ability to multitask effectively in a dynamic environment",
+                        "Clear written and oral communications skills with the ability to effectively collaborate with executives and engineering teams",
+                        "Successful candidates will be able to demonstrate a strong desire to share knowledge with clients, partners, and co-workers",
+                        "Some products of interest include Machine Learning (RAPIDS and sparks-rapids), Natural Language Processing and Large Language Models (NVIDIA NEMO), Logistics and Route Optimization (NVIDIA CuOpt), Recommender systems (NVIDIA Merlin) and Generative AI technologies (AI Foundations)",
+                        "Software development experience in enterprise scale applications and experience in complete Software Development Life Cycle (SDLC)",
+                        "Experience and understanding of the latest Deep Learning Architectures and training techniques",
+                        "Most importantly, Transformers Models and the latest customization techniques such as SFT, Parameter Efficient Fine Tuning, and Reinforcement Learning Human Feedback",
+                        "Leadership experience working with customers and managing large projects with multiple collaborators",
+                        "Show willingness and ability to dig into unfamiliar territories to solve complex problems relying on experience from previous work"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+                        "You will also be eligible for equity and benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a member of the AI Specialist Solution Architecture team, you will work closely with customers and partners to tackle hard problems across industries and build and deploy AI solutions in production at scale",
+                        "What you\u2019ll be doing: A big part of our day-to-day job is developing end-to-end Machine Learning & Deep Learning solutions and recipes that enable Enterprise use cases",
+                        "This can vary from building hands-on training to writing papers, developer blogs, and teaching",
+                        "Above all, you will be part of the team that helps bring NVIDIA technology to life in the Enterprise!",
+                        "You\u2019ll get to be the face and trusted expert advisor that our customers and partners rely on"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Solutions-Architect--Generative-AI-Specialist_JR1983304-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/solutions-architect-generative-ai-specialist-at-nvidia-3990968476?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/4813013564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobzMall",
+                    "link": "https://www.jobzmall.com/nvidia/job/solutions-architect-generative-ai-specialist-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs - Towards AI",
+                    "link": "https://jobs.towardsai.net/job/amazon-sr-specialist-solutions-architect-generative-ai-and-ml-rsrp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Illbeback.ai",
+                    "link": "https://illbeback.ai/job/sr-specialist-solutions-architect-gen-ai-and-ml-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Job Board",
+                    "link": "https://careers.wct-fct.com/companies/amazon-3-60ad394d-c673-4474-9694-344b0cae748f/jobs/39909087-sr-specialist-solutions-architect-gen-ai-and-ml?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Notify.careers",
+                    "link": "https://notify.careers/postings/be921c94-225e-4afb-a326-dc70491fa6fa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2x1dGlvbnMgQXJjaGl0ZWN0LCBHZW5lcmF0aXZlIEFJIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiIyMTAwIE5WSURJQSBVU0EiLCJhZGRyZXNzX2NpdHkiOiJVbml0ZWQgU3RhdGVzIiwiaHRpZG9jaWQiOiIyeVd2NHcwbFZmb29iNVFrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIn0="
+        },
+        {
+            "title": "Senior AI Solutions Architect",
+            "company_name": "Capital One",
+            "location": "Harrisonburg, VA",
+            "via": "KHON2 Jobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=oF5e0XJVHrg6siUYAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=oF5e0XJVHrg6siUYAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "health_insurance": true
+            },
+            "description": "Senior AI Solutions Architect\n\nOverview:\n\nCapital One is seeking a Senior AI Solutions Architect to lead the development and deployment of AI-powered products. In this role, you will partner with cross-functional teams to design, develop, test, and support AI software components. You will leverage a broad stack of Open Source and SaaS AI technologies to invent and introduce state-of-the-art optimization techniques for large scale production AI systems. The ideal candidate is deeply technical, passionate about staying abreast of the latest AI research, and can forge new paths to achieve business goals when the route is unknown.\n\nBasic Qualifications:\n\u2022 Bachelor's degree plus at least 4 years of experience developing AI and ML algorithms or technologies, or Master's degree plus at least 2 years of experience developing AI and ML algorithms or technologies\n\nPreferred Qualifications:\n\u2022 6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud)\n\u2022 Experience designing, developing, delivering, and supporting AI services\n\u2022 Master's degree in Computer Science, Computer Engineering, or relevant technical field\n\u2022 Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost\n\u2022 Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThis role is also eligible to earn performance based incentive compensation. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support total well-being.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting. For technical support or questions about Capital One's recruiting process, please send an email to recruiting@capitalone.com\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree plus at least 4 years of experience developing AI and ML algorithms or technologies, or Master's degree plus at least 2 years of experience developing AI and ML algorithms or technologies",
+                        "AWS, Google Cloud, Azure, or equivalent private cloud)",
+                        "Experience designing, developing, delivering, and supporting AI services",
+                        "Master's degree in Computer Science, Computer Engineering, or relevant technical field",
+                        "Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost",
+                        "Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This role is also eligible to earn performance based incentive compensation",
+                        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support total well-being"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Capital One is seeking a Senior AI Solutions Architect to lead the development and deployment of AI-powered products",
+                        "In this role, you will partner with cross-functional teams to design, develop, test, and support AI software components",
+                        "You will leverage a broad stack of Open Source and SaaS AI technologies to invent and introduce state-of-the-art optimization techniques for large scale production AI systems",
+                        "The ideal candidate is deeply technical, passionate about staying abreast of the latest AI research, and can forge new paths to achieve business goals when the route is unknown"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "KHON2 Jobs",
+                    "link": "https://jobs.khon2.com/jobs/senior-ai-solutions-architect-harrisonburg-virginia/1479275832-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WDTN Jobs",
+                    "link": "https://jobs.wdtn.com/jobs/senior-ai-solutions-architect-harrisonburg-virginia/1479275832-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Star Job Search",
+                    "link": "https://starjobsearch.co.uk/jobs/senior-ai-solutions-architect-harrisonburg-virginia/1479275832-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "FOX8 Jobs",
+                    "link": "https://jobs.fox8.com/jobs/senior-ai-solutions-architect-harrisonburg-virginia/1479275832-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LilyLifestyle Jobs",
+                    "link": "https://jobs.lilylifestyle.co.uk/jobs/senior-ai-solutions-architect-harrisonburg-virginia/1479275832-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkgU29sdXRpb25zIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IkNhcGl0YWwgT25lIiwiYWRkcmVzc19jaXR5IjoiSGFycmlzb25idXJnLCBWQSIsImh0aWRvY2lkIjoib0Y1ZTBYSlZIcmc2c2lVWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+        },
+        {
+            "title": "AI Solution Architect - Azure",
+            "company_name": "Photon",
+            "location": "Dallas, TX",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=f3yAKdj5ejp9F2IXAAAAAA%3D%3D&hl=en-US&shndl=-1&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=f3yAKdj5ejp9F2IXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6722752e5235f67e9e0397ae/images/3bb270d7b14859507c113cbe278c7bc701e4e856450dd3bf79b9147e7d35d1a6.jpeg",
+            "extensions": [
+                "6 days ago",
+                "40K\u2013200K a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "salary": "40K\u2013200K a year",
+                "schedule_type": "Full-time",
+                "paid_time_off": true,
+                "health_insurance": true,
+                "dental_coverage": true
+            },
+            "description": "Job Summary:\nWe are seeking an experienced AI/GenAI Solution Architect with expertise in Azure to design and implement innovative AI solutions. The ideal candidate will have a strong background in cloud technologies and a passion for developing intelligent applications.\n\nKey Responsibilities:\nDesign and architect AI and GenAI solutions on Azure.\n\nDesign and develop comprehensive architecture diagrams for AI solutions.\n\nDevelop and deploy machine learning models, ensuring alignment with architectural designs.\n\nManage and preprocess large datasets to support training and evaluation of AI models.\n\nOptimize existing AI solutions for performance and scalability.\n\nStay updated on the latest AI trends and Azure services.\n\nProvide technical guidance and support to engineering teams.\n\nExcellent communication and presentation skills, with the ability to engage clients effectively.\n\nQualifications:\nBachelor's degree in Computer Science, Engineering, or related field.\n\nProven experience as a Solution Architect in AI/GenAI.\n\nStrong knowledge of Azure services (e.g., Azure Machine Learning, Azure Cognitive Services).\n\nProficiency in Python.\n\nFamiliarity with Generative AI models (e.g., GPT, LLama, DALL-E and others).\n\nExperience with data technologies (e.g., SQL, NoSQL, data lakes, ETL processes).\n\nExperience with data processing and machine learning frameworks (e.g., TensorFlow, PyTorch).\n\nExcellent problem-solving and communication skills.\n\nPreferred Skills:\nCertification in Azure Solutions Architect.\n\nFamiliarity with DevOps practices and tools.\n\nExperience with large-scale data processing.\n\nCompensation, Benefits and Duration\n\nMinimum Compensation: USD 40k\n\nMaximum Compensation: USD 200k\n\nCompensation is based on actual experience and qualifications of the candidate. The above is a reasonable and a good faith estimate for the role.\n\nMedical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees.\n\nNo applications will be considered if received more than 120 days after the date of this post.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have a strong background in cloud technologies and a passion for developing intelligent applications",
+                        "Bachelor's degree in Computer Science, Engineering, or related field",
+                        "Proven experience as a Solution Architect in AI/GenAI",
+                        "Strong knowledge of Azure services (e.g., Azure Machine Learning, Azure Cognitive Services)",
+                        "Proficiency in Python",
+                        "Familiarity with Generative AI models (e.g., GPT, LLama, DALL-E and others)",
+                        "Experience with data technologies (e.g., SQL, NoSQL, data lakes, ETL processes)",
+                        "Experience with data processing and machine learning frameworks (e.g., TensorFlow, PyTorch)",
+                        "Excellent problem-solving and communication skills",
+                        "Certification in Azure Solutions Architect",
+                        "Familiarity with DevOps practices and tools",
+                        "Experience with large-scale data processing"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation, Benefits and Duration",
+                        "Minimum Compensation: USD 40k",
+                        "Maximum Compensation: USD 200k",
+                        "Compensation is based on actual experience and qualifications of the candidate",
+                        "The above is a reasonable and a good faith estimate for the role",
+                        "Medical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design and architect AI and GenAI solutions on Azure",
+                        "Design and develop comprehensive architecture diagrams for AI solutions",
+                        "Develop and deploy machine learning models, ensuring alignment with architectural designs",
+                        "Manage and preprocess large datasets to support training and evaluation of AI models",
+                        "Optimize existing AI solutions for performance and scalability",
+                        "Stay updated on the latest AI trends and Azure services",
+                        "Provide technical guidance and support to engineering teams",
+                        "Excellent communication and presentation skills, with the ability to engage clients effectively"
+                    ]
+                }
+            ],
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=7c555e5923bb0f73&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/devops-architect-azure-slalomconsulting-dallas-tx_76001162?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/VCEyO1-2TguVwjwQudRandfaB5JkqmhcS4xT1SApR6KtEAhEFBsZRA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbiBBcmNoaXRlY3QgLSBBenVyZSIsImNvbXBhbnlfbmFtZSI6IlBob3RvbiIsImFkZHJlc3NfY2l0eSI6IkRhbGxhcywgVFgiLCJodGlkb2NpZCI6ImYzeUFLZGo1ZWpwOUYySVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVyY0ZDdmNFUVVwSE9VcHJUMDFDUTJnM2VtcDVSRkoyZFZObFVpMUZkMEZUUjFSMGF6Uk5NVXhHY1d4TVlXNUlUVGRuVTNKTk9XTjVkQzFUU0ZWSFNXdHJlRFZaUlY5Rk1FdFZVWEE1VjFoaVEyZ3pTR2xoWDFsNk1WSlBOVkozWlhFM2VsRXpWMmxhWVVVd1F6TjZaSEJKUzIxR1VVZEVUa1ZEUlZsRldXUkJhR1p6Y1dWdmNsWjZkbEZmWm5KUFFscFFkVk5NZEVKQ2JXVllia2w0YURaTmVHOXNWSFpRTUVsRGNFTTRWM1pzTmt0aVpETTBWbmxaTFhkS2JHRjNXbll0V2xKTVIzQmhhazFzU0d0dVlUSTRkbEY2VTFSYVRXaGliamg2TURkME0yaFZlVTVxTkZSbE1HUmFPRmxLVnpKMmIxRnFRMmMwTkVaZk5HSXhiRmhIU0hKd2RWUnZiRFJJWWxCVWRFOVFUVlE0V0hkdmVUZFRWR2xZTFhObGFUVjNYM3BGU1VseFdsQlFhVFI1V1ZnMFRXWlplRFl6WVhSaFJGZDBXbU54ZHpaTlJqaFNiRkpXVldSMWEzUXlTMWgxUW5VelNrbEhVbEppUm1GT00xUlZTQzFsVldkWFFtOUxjbHBCTjNGVU1VMUxObVl5YVhWMmFVRjRXalo0T1VzME5VTklUM1ZWUlZSRFZGQjVWbFZvTkVGbFYyeEVOazQwZUVGemVIb3hUbXcxVXkxR1MzSXdNSGxZV0V0clVWQkZMVTlPT1dWbFdUZHlja1JOVWs5cU5rRnJWRWxJVUhWMGNtaHlVVlU1TVVNM1lsODROakZYUVhkak5rSm5RWHBVVW5wcldGcEtURTE1ZEZsaFVEaHJWemxQVGxKUmMweFpPWFpSU1c1Rk5rRkpiREJKU2xOWWJrZFZVamxZU1doalUxWnNRMEpIU2tOWFRXa3pVR1JZWWxwb2NXRXROSEZIYjNWdlIyVm5jMGM1UVV4SE4wdE1RM0F3YWt0elprOHlaVVoxYjJsTGNtNXNUVlE0YjA5SFZtWkVlRlZuTUZGM1dYcEVlVU5yWm1aeGRsVk1aR3d0YkVaTloxVndhV1I0UzBKM1NETk1PSFJzUlJJWFRUTlZhVm81V0ZsQ2NHRklNRkJGVUhaZlJFMTFRVlVhSWtGR1dISkZZM0EyZVhaV05UVktjbkZEZVdSMVRsQjNlRFJIT0RZM1QxQnRMVkUiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&gl=us&google_domain=google.com&hl=en&next_page_token=eyJmYyI6IkVyY0ZDdmNFUVVwSE9VcHJUMDFDUTJnM2VtcDVSRkoyZFZObFVpMUZkMEZUUjFSMGF6Uk5NVXhHY1d4TVlXNUlUVGRuVTNKTk9XTjVkQzFUU0ZWSFNXdHJlRFZaUlY5Rk1FdFZVWEE1VjFoaVEyZ3pTR2xoWDFsNk1WSlBOVkozWlhFM2VsRXpWMmxhWVVVd1F6TjZaSEJKUzIxR1VVZEVUa1ZEUlZsRldXUkJhR1p6Y1dWdmNsWjZkbEZmWm5KUFFscFFkVk5NZEVKQ2JXVllia2w0YURaTmVHOXNWSFpRTUVsRGNFTTRWM1pzTmt0aVpETTBWbmxaTFhkS2JHRjNXbll0V2xKTVIzQmhhazFzU0d0dVlUSTRkbEY2VTFSYVRXaGliamg2TURkME0yaFZlVTVxTkZSbE1HUmFPRmxLVnpKMmIxRnFRMmMwTkVaZk5HSXhiRmhIU0hKd2RWUnZiRFJJWWxCVWRFOVFUVlE0V0hkdmVUZFRWR2xZTFhObGFUVjNYM3BGU1VseFdsQlFhVFI1V1ZnMFRXWlplRFl6WVhSaFJGZDBXbU54ZHpaTlJqaFNiRkpXVldSMWEzUXlTMWgxUW5VelNrbEhVbEppUm1GT00xUlZTQzFsVldkWFFtOUxjbHBCTjNGVU1VMUxObVl5YVhWMmFVRjRXalo0T1VzME5VTklUM1ZWUlZSRFZGQjVWbFZvTkVGbFYyeEVOazQwZUVGemVIb3hUbXcxVXkxR1MzSXdNSGxZV0V0clVWQkZMVTlPT1dWbFdUZHlja1JOVWs5cU5rRnJWRWxJVUhWMGNtaHlVVlU1TVVNM1lsODROakZYUVhkak5rSm5RWHBVVW5wcldGcEtURTE1ZEZsaFVEaHJWemxQVGxKUmMweFpPWFpSU1c1Rk5rRkpiREJKU2xOWWJrZFZVamxZU1doalUxWnNRMEpIU2tOWFRXa3pVR1JZWWxwb2NXRXROSEZIYjNWdlIyVm5jMGM1UVV4SE4wdE1RM0F3YWt0elprOHlaVVoxYjJsTGNtNXNUVlE0YjA5SFZtWkVlRlZuTUZGM1dYcEVlVU5yWm1aeGRsVk1aR3d0YkVaTloxVndhV1I0UzBKM1NETk1PSFJzUlJJWFRUTlZhVm81V0ZsQ2NHRklNRkJGVUhaZlJFMTFRVlVhSWtGR1dISkZZM0EyZVhaV05UVktjbkZEZVdSMVRsQjNlRFJIT0RZM1QxQnRMVkUiLCJmY3YiOiIzIn0%3D&q=AI+Solutions+Architect&uule=w%2BCAIQICINVW5pdGVkIFN0YXRlcw"
+    }
+}
